@@ -5,7 +5,3 @@ Dzīves vieta - Ķekavas Novads, Baloži
 ## Photo
 ![alt text](username.jpg)
 
-
-
-
-
