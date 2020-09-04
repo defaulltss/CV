@@ -1,8 +1,5 @@
-# ->**Mans CV**<-
+#  **Mans CV**
 ## Info par mani
 ###  Vards, Uzvārds - Ralfs Daniels Ūks
-
-![alt text](image.jpg)
-
-
+#### Dzīves vieta - Ķekavas Novads, Baloži
 
