@@ -2,6 +2,7 @@
 ## Info par mani
 ###  Vards, Uzvārds - Ralfs Daniels Ūks
 
-![alt text](download.jpg)
+![alt text](download(1).jpg)
+
 
 
